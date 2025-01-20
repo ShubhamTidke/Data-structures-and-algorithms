@@ -1,5 +1,5 @@
 class SegmentTree:
-    """Class for segment tree operations"""
+    """Segment tree using recursion"""
 
     def __init__(self, n):
         self.n = n
